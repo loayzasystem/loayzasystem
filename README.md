@@ -349,5 +349,5 @@
 
 <p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=loayzasystem&show_icons=true&locale=en&theme=dark" alt="loayzasystem" /></p>
 
-<p align="center">&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=loayzasystem&show_icons=true&locale=en&theme=dark" alt="loayzasystem" /></p>
+<p align="center">&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=loayzasystem&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="loayzasystem" /></p>
 
