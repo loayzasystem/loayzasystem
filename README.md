@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **Angular, Javascript, NestJS, NodeJS, SQL , PHP, Laravel, Typescript**
 
-- 📫 How to reach me **loayza.system7@gmail.com**
+- 📫 How to reach me **loayza.system@gmail.com**
 
 <!-- - 📄 Know about my experiences [>CV<]() -->
 
