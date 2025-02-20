@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Deployed Projects
+## 🚀 Live Projects
 🔹 [Churchbase](https://churchbase.com/) - **(Web/Admin Panel/Apps) All-in-one church software suite**  
 🔹 [Lunarpay](https://www.lunarpay.com/) - **(Web/Admin Panel) Market payment solution**  
 🔹 [Chatgive](https://chatgive.com/) - **(Web/Admin Panel/Widget) User-Friendly giving management platform**  
