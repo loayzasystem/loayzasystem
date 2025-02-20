@@ -19,7 +19,7 @@
 🔹 [Lunarpay](https://www.lunarpay.com/) - **(Web/Admin Panel) Market payment solution**  
 🔹 [Chatgive](https://chatgive.com/) - **(Web/Admin Panel/Widget) User-Friendly giving management platform**  
 🔹 [Shoutout](https://shoutout.us/) - **(Web/Admin Panel/App) Personalized Videos Platform from talents to fans**  
-🔹 [Wesport](https://usaflag.org/)) - **(Web/Admin Panel/App) American Football Tournament Platform**  
+🔹 [Wesport](https://usaflag.org/) - **(Web/Admin Panel/App) American Football Tournament Platform**  
 
 ---
 
