@@ -12,6 +12,17 @@
 
 - ⚡I worked as Web fullstack developer in Apollo Inc.
 
+---
+
+## 🚀 Deployed Projects
+🔹 [Churchbase](https://churchbase.com/) - **(Web/Admin Panel/Apps) All-in-one church software suite**  
+🔹 [Lunarpay](https://www.lunarpay.com/) - **(Web/Admin Panel) Market payment solution**  
+🔹 [Chatgive](https://chatgive.com/) - **(Web/Admin Panel/Widget) User-Friendly giving management platform**  
+🔹 [Shoutout](https://shoutout.us/) - **(Web/Admin Panel/App) Personalized Videos Platform from talents to fans**  
+🔹 [Wesport](https://usaflag.org/)) - **(Web/Admin Panel/App) American Football Tournament Platform**  
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adolfoloayza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adolfoloayza/" height="30" width="40" /></a>
